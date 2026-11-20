@@ -1,0 +1,1416 @@
+{
+  "format": "uta-annotated-lyrics",
+  "version": 1,
+  "source": "UtaTen",
+  "url": "https://utaten.com/lyric/jb50909355/",
+  "title": "ふわふわ時間",
+  "artist": "放課後ティータイム",
+  "timed": false,
+  "lines": [
+    {
+      "text": "キミを見てるといつもハートDOKI☆DOKI",
+      "segments": [
+        {
+          "surface": "キミを"
+        },
+        {
+          "surface": "見",
+          "kana": "み"
+        },
+        {
+          "surface": "てるといつもハートDOKI☆DOKI"
+        }
+      ],
+      "index": 1,
+      "kana": "キミをみてるといつもハートDOKI☆DOKI",
+      "romaji_segments": [
+        {
+          "surface": "キミ",
+          "romaji": "kimi"
+        },
+        {
+          "surface": "を",
+          "romaji": "wo"
+        },
+        {
+          "surface": "見",
+          "romaji": "mi"
+        },
+        {
+          "surface": "てるといつも",
+          "romaji": "terutoitsumo"
+        },
+        {
+          "surface": "ハ",
+          "romaji": "ha"
+        },
+        {
+          "surface": "ー"
+        },
+        {
+          "surface": "ト",
+          "romaji": "to"
+        },
+        {
+          "surface": "DOKI☆DOKI"
+        }
+      ],
+      "romaji": "kimiwomiterutoitsumohaーtoDOKI☆DOKI"
+    },
+    {
+      "text": "揺れる思いはマシュマロみたいにふわ☆ふわ",
+      "segments": [
+        {
+          "surface": "揺",
+          "kana": "ゆ"
+        },
+        {
+          "surface": "れる"
+        },
+        {
+          "surface": "思",
+          "kana": "おも"
+        },
+        {
+          "surface": "いはマシュマロみたいにふわ☆ふわ"
+        }
+      ],
+      "index": 2,
+      "kana": "ゆれるおもいはマシュマロみたいにふわ☆ふわ",
+      "romaji_segments": [
+        {
+          "surface": "揺",
+          "romaji": "yu"
+        },
+        {
+          "surface": "れる",
+          "romaji": "reru"
+        },
+        {
+          "surface": "思",
+          "romaji": "omo"
+        },
+        {
+          "surface": "いは",
+          "romaji": "iha"
+        },
+        {
+          "surface": "マシュマロ",
+          "romaji": "masyumaro"
+        },
+        {
+          "surface": "みたいにふわ",
+          "romaji": "mitainifuwa"
+        },
+        {
+          "surface": "☆"
+        },
+        {
+          "surface": "ふわ",
+          "romaji": "fuwa"
+        }
+      ],
+      "romaji": "yureruomoihamasyumaromitainifuwa☆fuwa"
+    },
+    {
+      "text": "いつもがんばるキミの横顔",
+      "segments": [
+        {
+          "surface": "いつもがんばるキミの"
+        },
+        {
+          "surface": "横顔",
+          "kana": "よこがお"
+        }
+      ],
+      "index": 3,
+      "kana": "いつもがんばるキミのよこがお",
+      "romaji_segments": [
+        {
+          "surface": "いつもがんばる",
+          "romaji": "itsumoganbaru"
+        },
+        {
+          "surface": "キミ",
+          "romaji": "kimi"
+        },
+        {
+          "surface": "の",
+          "romaji": "no"
+        },
+        {
+          "surface": "横顔",
+          "romaji": "yokogao"
+        }
+      ],
+      "romaji": "itsumoganbarukiminoyokogao"
+    },
+    {
+      "text": "ずっと見てても気づかないよね",
+      "segments": [
+        {
+          "surface": "ずっと"
+        },
+        {
+          "surface": "見",
+          "kana": "み"
+        },
+        {
+          "surface": "てても"
+        },
+        {
+          "surface": "気",
+          "kana": "き"
+        },
+        {
+          "surface": "づかないよね"
+        }
+      ],
+      "index": 4,
+      "kana": "ずっとみててもきづかないよね",
+      "romaji_segments": [
+        {
+          "surface": "ずっと",
+          "romaji": "zutto"
+        },
+        {
+          "surface": "見",
+          "romaji": "mi"
+        },
+        {
+          "surface": "てても",
+          "romaji": "tetemo"
+        },
+        {
+          "surface": "気",
+          "romaji": "ki"
+        },
+        {
+          "surface": "づかないよね",
+          "romaji": "dukanaiyone"
+        }
+      ],
+      "romaji": "zuttomitetemokidukanaiyone"
+    },
+    {
+      "text": "夢の中なら二人の距離縮められるのにな",
+      "segments": [
+        {
+          "surface": "夢",
+          "kana": "ゆめ"
+        },
+        {
+          "surface": "の"
+        },
+        {
+          "surface": "中",
+          "kana": "なか"
+        },
+        {
+          "surface": "なら"
+        },
+        {
+          "surface": "二人",
+          "kana": "ふたり"
+        },
+        {
+          "surface": "の"
+        },
+        {
+          "surface": "距離縮",
+          "kana": "きょりちぢ"
+        },
+        {
+          "surface": "められるのにな"
+        }
+      ],
+      "index": 5,
+      "kana": "ゆめのなかならふたりのきょりちぢめられるのにな",
+      "romaji_segments": [
+        {
+          "surface": "夢",
+          "romaji": "yume"
+        },
+        {
+          "surface": "の",
+          "romaji": "no"
+        },
+        {
+          "surface": "中",
+          "romaji": "naka"
+        },
+        {
+          "surface": "なら",
+          "romaji": "nara"
+        },
+        {
+          "surface": "二人",
+          "romaji": "futari"
+        },
+        {
+          "surface": "の",
+          "romaji": "no"
+        },
+        {
+          "surface": "距離縮",
+          "romaji": "kyorichiji"
+        },
+        {
+          "surface": "められるのにな",
+          "romaji": "merarerunonina"
+        }
+      ],
+      "romaji": "yumenonakanarafutarinokyorichijimerarerunonina"
+    },
+    {
+      "text": "あぁカミサマお願い",
+      "segments": [
+        {
+          "surface": "あぁカミサマお"
+        },
+        {
+          "surface": "願",
+          "kana": "ねが"
+        },
+        {
+          "surface": "い"
+        }
+      ],
+      "index": 6,
+      "kana": "あぁカミサマおねがい",
+      "romaji_segments": [
+        {
+          "surface": "あぁ",
+          "romaji": "aa"
+        },
+        {
+          "surface": "カミサマ",
+          "romaji": "kamisama"
+        },
+        {
+          "surface": "お",
+          "romaji": "o"
+        },
+        {
+          "surface": "願",
+          "romaji": "nega"
+        },
+        {
+          "surface": "い",
+          "romaji": "i"
+        }
+      ],
+      "romaji": "aakamisamaonegai"
+    },
+    {
+      "text": "二人だけのDream Timeください☆",
+      "segments": [
+        {
+          "surface": "二人",
+          "kana": "ふたり"
+        },
+        {
+          "surface": "だけのDream Timeください☆"
+        }
+      ],
+      "index": 7,
+      "kana": "ふたりだけのDream Timeください☆",
+      "romaji_segments": [
+        {
+          "surface": "二人",
+          "romaji": "futari"
+        },
+        {
+          "surface": "だけの",
+          "romaji": "dakeno"
+        },
+        {
+          "surface": "Dream Time"
+        },
+        {
+          "surface": "ください",
+          "romaji": "kudasai"
+        },
+        {
+          "surface": "☆"
+        }
+      ],
+      "romaji": "futaridakenoDream Timekudasai☆"
+    },
+    {
+      "text": "お気に入りのうさちゃん抱いて今夜もオヤスミ♪",
+      "segments": [
+        {
+          "surface": "お"
+        },
+        {
+          "surface": "気",
+          "kana": "き"
+        },
+        {
+          "surface": "に"
+        },
+        {
+          "surface": "入",
+          "kana": "い"
+        },
+        {
+          "surface": "りのうさちゃん"
+        },
+        {
+          "surface": "抱",
+          "kana": "だ"
+        },
+        {
+          "surface": "いて"
+        },
+        {
+          "surface": "今夜",
+          "kana": "こんや"
+        },
+        {
+          "surface": "もオヤスミ♪"
+        }
+      ],
+      "index": 8,
+      "kana": "おきにいりのうさちゃんだいてこんやもオヤスミ♪",
+      "romaji_segments": [
+        {
+          "surface": "お",
+          "romaji": "o"
+        },
+        {
+          "surface": "気",
+          "romaji": "ki"
+        },
+        {
+          "surface": "に",
+          "romaji": "ni"
+        },
+        {
+          "surface": "入",
+          "romaji": "i"
+        },
+        {
+          "surface": "りのうさちゃん",
+          "romaji": "rinousachan"
+        },
+        {
+          "surface": "抱",
+          "romaji": "da"
+        },
+        {
+          "surface": "いて",
+          "romaji": "ite"
+        },
+        {
+          "surface": "今夜",
+          "romaji": "konya"
+        },
+        {
+          "surface": "も",
+          "romaji": "mo"
+        },
+        {
+          "surface": "オヤスミ",
+          "romaji": "oyasumi"
+        },
+        {
+          "surface": "♪"
+        }
+      ],
+      "romaji": "okiniirinousachandaitekonyamooyasumi♪"
+    },
+    {
+      "text": "ふわふわ時間 ふわふわ時間 ふわふわ時間",
+      "segments": [
+        {
+          "surface": "ふわふわ"
+        },
+        {
+          "surface": "時間",
+          "kana": "タイム"
+        },
+        {
+          "surface": " ふわふわ"
+        },
+        {
+          "surface": "時間",
+          "kana": "タイム"
+        },
+        {
+          "surface": " ふわふわ"
+        },
+        {
+          "surface": "時間",
+          "kana": "タイム"
+        }
+      ],
+      "index": 9,
+      "kana": "ふわふわタイム ふわふわタイム ふわふわタイム",
+      "romaji_segments": [
+        {
+          "surface": "ふわふわ",
+          "romaji": "fuwafuwa"
+        },
+        {
+          "surface": "時間",
+          "romaji": "taimu"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "ふわふわ",
+          "romaji": "fuwafuwa"
+        },
+        {
+          "surface": "時間",
+          "romaji": "taimu"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "ふわふわ",
+          "romaji": "fuwafuwa"
+        },
+        {
+          "surface": "時間",
+          "romaji": "taimu"
+        }
+      ],
+      "romaji": "fuwafuwataimu fuwafuwataimu fuwafuwataimu"
+    },
+    {
+      "text": "ふとした仕草に今日もハートZUKI★ZUKI",
+      "segments": [
+        {
+          "surface": "ふとした"
+        },
+        {
+          "surface": "仕草",
+          "kana": "しぐさ"
+        },
+        {
+          "surface": "に"
+        },
+        {
+          "surface": "今日",
+          "kana": "きょう"
+        },
+        {
+          "surface": "もハートZUKI★ZUKI"
+        }
+      ],
+      "index": 10,
+      "kana": "ふとしたしぐさにきょうもハートZUKI★ZUKI",
+      "romaji_segments": [
+        {
+          "surface": "ふとした",
+          "romaji": "futoshita"
+        },
+        {
+          "surface": "仕草",
+          "romaji": "shigusa"
+        },
+        {
+          "surface": "に",
+          "romaji": "ni"
+        },
+        {
+          "surface": "今日",
+          "romaji": "kyou"
+        },
+        {
+          "surface": "も",
+          "romaji": "mo"
+        },
+        {
+          "surface": "ハ",
+          "romaji": "ha"
+        },
+        {
+          "surface": "ー"
+        },
+        {
+          "surface": "ト",
+          "romaji": "to"
+        },
+        {
+          "surface": "ZUKI★ZUKI"
+        }
+      ],
+      "romaji": "futoshitashigusanikyoumohaーtoZUKI★ZUKI"
+    },
+    {
+      "text": "さりげな笑顔を深読みしすぎてover heat!",
+      "segments": [
+        {
+          "surface": "さりげな"
+        },
+        {
+          "surface": "笑顔",
+          "kana": "えがお"
+        },
+        {
+          "surface": "を"
+        },
+        {
+          "surface": "深読",
+          "kana": "ふかよ"
+        },
+        {
+          "surface": "みしすぎてover heat!"
+        }
+      ],
+      "index": 11,
+      "kana": "さりげなえがおをふかよみしすぎてover heat!",
+      "romaji_segments": [
+        {
+          "surface": "さりげな",
+          "romaji": "sarigena"
+        },
+        {
+          "surface": "笑顔",
+          "romaji": "egao"
+        },
+        {
+          "surface": "を",
+          "romaji": "wo"
+        },
+        {
+          "surface": "深読",
+          "romaji": "fukayo"
+        },
+        {
+          "surface": "みしすぎて",
+          "romaji": "mishisugite"
+        },
+        {
+          "surface": "over heat!"
+        }
+      ],
+      "romaji": "sarigenaegaowofukayomishisugiteover heat!"
+    },
+    {
+      "text": "いつか目にしたキミのマジ顔",
+      "segments": [
+        {
+          "surface": "いつか"
+        },
+        {
+          "surface": "目",
+          "kana": "め"
+        },
+        {
+          "surface": "にしたキミのマジ"
+        },
+        {
+          "surface": "顔",
+          "kana": "がお"
+        }
+      ],
+      "index": 12,
+      "kana": "いつかめにしたキミのマジがお",
+      "romaji_segments": [
+        {
+          "surface": "いつか",
+          "romaji": "itsuka"
+        },
+        {
+          "surface": "目",
+          "romaji": "me"
+        },
+        {
+          "surface": "にした",
+          "romaji": "nishita"
+        },
+        {
+          "surface": "キミ",
+          "romaji": "kimi"
+        },
+        {
+          "surface": "の",
+          "romaji": "no"
+        },
+        {
+          "surface": "マジ",
+          "romaji": "maji"
+        },
+        {
+          "surface": "顔",
+          "romaji": "gao"
+        }
+      ],
+      "romaji": "itsukamenishitakiminomajigao"
+    },
+    {
+      "text": "瞳閉じても浮かんでくるよ",
+      "segments": [
+        {
+          "surface": "瞳閉",
+          "kana": "ひとみと"
+        },
+        {
+          "surface": "じても"
+        },
+        {
+          "surface": "浮",
+          "kana": "う"
+        },
+        {
+          "surface": "かんでくるよ"
+        }
+      ],
+      "index": 13,
+      "kana": "ひとみとじてもうかんでくるよ",
+      "romaji_segments": [
+        {
+          "surface": "瞳閉",
+          "romaji": "hitomito"
+        },
+        {
+          "surface": "じても",
+          "romaji": "jitemo"
+        },
+        {
+          "surface": "浮",
+          "romaji": "u"
+        },
+        {
+          "surface": "かんでくるよ",
+          "romaji": "kandekuruyo"
+        }
+      ],
+      "romaji": "hitomitojitemoukandekuruyo"
+    },
+    {
+      "text": "夢でいいから二人だけのSweet time欲しいの",
+      "segments": [
+        {
+          "surface": "夢",
+          "kana": "ゆめ"
+        },
+        {
+          "surface": "でいいから"
+        },
+        {
+          "surface": "二人",
+          "kana": "ふたり"
+        },
+        {
+          "surface": "だけのSweet time"
+        },
+        {
+          "surface": "欲",
+          "kana": "ほ"
+        },
+        {
+          "surface": "しいの"
+        }
+      ],
+      "index": 14,
+      "kana": "ゆめでいいからふたりだけのSweet timeほしいの",
+      "romaji_segments": [
+        {
+          "surface": "夢",
+          "romaji": "yume"
+        },
+        {
+          "surface": "でいいから",
+          "romaji": "deiikara"
+        },
+        {
+          "surface": "二人",
+          "romaji": "futari"
+        },
+        {
+          "surface": "だけの",
+          "romaji": "dakeno"
+        },
+        {
+          "surface": "Sweet time"
+        },
+        {
+          "surface": "欲",
+          "romaji": "ho"
+        },
+        {
+          "surface": "しいの",
+          "romaji": "shiino"
+        }
+      ],
+      "romaji": "yumedeiikarafutaridakenoSweet timehoshiino"
+    },
+    {
+      "text": "あぁカミサマどうして",
+      "segments": [
+        {
+          "surface": "あぁカミサマどうして"
+        }
+      ],
+      "index": 15,
+      "kana": "あぁカミサマどうして",
+      "romaji_segments": [
+        {
+          "surface": "あぁ",
+          "romaji": "aa"
+        },
+        {
+          "surface": "カミサマ",
+          "romaji": "kamisama"
+        },
+        {
+          "surface": "どうして",
+          "romaji": "doushite"
+        }
+      ],
+      "romaji": "aakamisamadoushite"
+    },
+    {
+      "text": "好きになるほどDream nightせつないの",
+      "segments": [
+        {
+          "surface": "好",
+          "kana": "す"
+        },
+        {
+          "surface": "きになるほどDream nightせつないの"
+        }
+      ],
+      "index": 16,
+      "kana": "すきになるほどDream nightせつないの",
+      "romaji_segments": [
+        {
+          "surface": "好",
+          "romaji": "su"
+        },
+        {
+          "surface": "きになるほど",
+          "romaji": "kininaruhodo"
+        },
+        {
+          "surface": "Dream night"
+        },
+        {
+          "surface": "せつないの",
+          "romaji": "setsunaino"
+        }
+      ],
+      "romaji": "sukininaruhodoDream nightsetsunaino"
+    },
+    {
+      "text": "とっておきのくまちゃん出したし今夜は大丈夫かな?",
+      "segments": [
+        {
+          "surface": "とっておきのくまちゃん"
+        },
+        {
+          "surface": "出",
+          "kana": "だ"
+        },
+        {
+          "surface": "したし"
+        },
+        {
+          "surface": "今夜",
+          "kana": "こんや"
+        },
+        {
+          "surface": "は"
+        },
+        {
+          "surface": "大丈夫",
+          "kana": "だいじょうぶ"
+        },
+        {
+          "surface": "かな?"
+        }
+      ],
+      "index": 17,
+      "kana": "とっておきのくまちゃんだしたしこんやはだいじょうぶかな?",
+      "romaji_segments": [
+        {
+          "surface": "とっておきのくまちゃん",
+          "romaji": "totteokinokumachan"
+        },
+        {
+          "surface": "出",
+          "romaji": "da"
+        },
+        {
+          "surface": "したし",
+          "romaji": "shitashi"
+        },
+        {
+          "surface": "今夜",
+          "romaji": "konya"
+        },
+        {
+          "surface": "は",
+          "romaji": "ha"
+        },
+        {
+          "surface": "大丈夫",
+          "romaji": "daijoubu"
+        },
+        {
+          "surface": "かな",
+          "romaji": "kana"
+        },
+        {
+          "surface": "?"
+        }
+      ],
+      "romaji": "totteokinokumachandashitashikonyahadaijoubukana?"
+    },
+    {
+      "text": "もすこし勇気ふるって",
+      "segments": [
+        {
+          "surface": "もすこし"
+        },
+        {
+          "surface": "勇気",
+          "kana": "ゆうき"
+        },
+        {
+          "surface": "ふるって"
+        }
+      ],
+      "index": 18,
+      "kana": "もすこしゆうきふるって",
+      "romaji_segments": [
+        {
+          "surface": "もすこし",
+          "romaji": "mosukoshi"
+        },
+        {
+          "surface": "勇気",
+          "romaji": "yuuki"
+        },
+        {
+          "surface": "ふるって",
+          "romaji": "furutte"
+        }
+      ],
+      "romaji": "mosukoshiyuukifurutte"
+    },
+    {
+      "text": "自然に話せば",
+      "segments": [
+        {
+          "surface": "自然",
+          "kana": "しぜん"
+        },
+        {
+          "surface": "に"
+        },
+        {
+          "surface": "話",
+          "kana": "はな"
+        },
+        {
+          "surface": "せば"
+        }
+      ],
+      "index": 19,
+      "kana": "しぜんにはなせば",
+      "romaji_segments": [
+        {
+          "surface": "自然",
+          "romaji": "shizen"
+        },
+        {
+          "surface": "に",
+          "romaji": "ni"
+        },
+        {
+          "surface": "話",
+          "romaji": "hana"
+        },
+        {
+          "surface": "せば",
+          "romaji": "seba"
+        }
+      ],
+      "romaji": "shizennihanaseba"
+    },
+    {
+      "text": "何かが変わるのかな?",
+      "segments": [
+        {
+          "surface": "何",
+          "kana": "なに"
+        },
+        {
+          "surface": "かが"
+        },
+        {
+          "surface": "変",
+          "kana": "か"
+        },
+        {
+          "surface": "わるのかな?"
+        }
+      ],
+      "index": 20,
+      "kana": "なにかがかわるのかな?",
+      "romaji_segments": [
+        {
+          "surface": "何",
+          "romaji": "nani"
+        },
+        {
+          "surface": "かが",
+          "romaji": "kaga"
+        },
+        {
+          "surface": "変",
+          "romaji": "ka"
+        },
+        {
+          "surface": "わるのかな",
+          "romaji": "warunokana"
+        },
+        {
+          "surface": "?"
+        }
+      ],
+      "romaji": "nanikagakawarunokana?"
+    },
+    {
+      "text": "そんな気するけど",
+      "segments": [
+        {
+          "surface": "そんな"
+        },
+        {
+          "surface": "気",
+          "kana": "き"
+        },
+        {
+          "surface": "するけど"
+        }
+      ],
+      "index": 21,
+      "kana": "そんなきするけど",
+      "romaji_segments": [
+        {
+          "surface": "そんな",
+          "romaji": "sonna"
+        },
+        {
+          "surface": "気",
+          "romaji": "ki"
+        },
+        {
+          "surface": "するけど",
+          "romaji": "surukedo"
+        }
+      ],
+      "romaji": "sonnakisurukedo"
+    },
+    {
+      "text": "(だけどそれが一番難しいのよ",
+      "segments": [
+        {
+          "surface": "(だけどそれが"
+        },
+        {
+          "surface": "一番難",
+          "kana": "いちばんむずか"
+        },
+        {
+          "surface": "しいのよ"
+        }
+      ],
+      "index": 22,
+      "kana": "(だけどそれがいちばんむずかしいのよ",
+      "romaji_segments": [
+        {
+          "surface": "("
+        },
+        {
+          "surface": "だけどそれが",
+          "romaji": "dakedosorega"
+        },
+        {
+          "surface": "一番難",
+          "romaji": "ichibanmuzuka"
+        },
+        {
+          "surface": "しいのよ",
+          "romaji": "shiinoyo"
+        }
+      ],
+      "romaji": "(dakedosoregaichibanmuzukashiinoyo"
+    },
+    {
+      "text": "話のきっかけとかどうしよ",
+      "segments": [
+        {
+          "surface": "話",
+          "kana": "はなし"
+        },
+        {
+          "surface": "のきっかけとかどうしよ"
+        }
+      ],
+      "index": 23,
+      "kana": "はなしのきっかけとかどうしよ",
+      "romaji_segments": [
+        {
+          "surface": "話",
+          "romaji": "hanashi"
+        },
+        {
+          "surface": "のきっかけとかどうしよ",
+          "romaji": "nokikkaketokadoushiyo"
+        }
+      ],
+      "romaji": "hanashinokikkaketokadoushiyo"
+    },
+    {
+      "text": "てか段取り考えてる時点で全然自然じゃないよね",
+      "segments": [
+        {
+          "surface": "てか"
+        },
+        {
+          "surface": "段取",
+          "kana": "だんど"
+        },
+        {
+          "surface": "り"
+        },
+        {
+          "surface": "考",
+          "kana": "かんが"
+        },
+        {
+          "surface": "えてる"
+        },
+        {
+          "surface": "時点",
+          "kana": "じてん"
+        },
+        {
+          "surface": "で"
+        },
+        {
+          "surface": "全然自然",
+          "kana": "ぜんぜんしぜん"
+        },
+        {
+          "surface": "じゃないよね"
+        }
+      ],
+      "index": 24,
+      "kana": "てかだんどりかんがえてるじてんでぜんぜんしぜんじゃないよね",
+      "romaji_segments": [
+        {
+          "surface": "てか",
+          "romaji": "teka"
+        },
+        {
+          "surface": "段取",
+          "romaji": "dando"
+        },
+        {
+          "surface": "り",
+          "romaji": "ri"
+        },
+        {
+          "surface": "考",
+          "romaji": "kanga"
+        },
+        {
+          "surface": "えてる",
+          "romaji": "eteru"
+        },
+        {
+          "surface": "時点",
+          "romaji": "jiten"
+        },
+        {
+          "surface": "で",
+          "romaji": "de"
+        },
+        {
+          "surface": "全然自然",
+          "romaji": "zenzenshizen"
+        },
+        {
+          "surface": "じゃないよね",
+          "romaji": "janaiyone"
+        }
+      ],
+      "romaji": "tekadandorikangaeterujitendezenzenshizenjanaiyone"
+    },
+    {
+      "text": "あぁもういいや寝ちゃお寝ちゃお寝ちゃおーっ!)",
+      "segments": [
+        {
+          "surface": "あぁもういいや"
+        },
+        {
+          "surface": "寝",
+          "kana": "ね"
+        },
+        {
+          "surface": "ちゃお"
+        },
+        {
+          "surface": "寝",
+          "kana": "ね"
+        },
+        {
+          "surface": "ちゃお"
+        },
+        {
+          "surface": "寝",
+          "kana": "ね"
+        },
+        {
+          "surface": "ちゃおーっ!)"
+        }
+      ],
+      "index": 25,
+      "kana": "あぁもういいやねちゃおねちゃおねちゃおーっ!)",
+      "romaji_segments": [
+        {
+          "surface": "あぁもういいや",
+          "romaji": "aamouiiya"
+        },
+        {
+          "surface": "寝",
+          "romaji": "ne"
+        },
+        {
+          "surface": "ちゃお",
+          "romaji": "chao"
+        },
+        {
+          "surface": "寝",
+          "romaji": "ne"
+        },
+        {
+          "surface": "ちゃお",
+          "romaji": "chao"
+        },
+        {
+          "surface": "寝",
+          "romaji": "ne"
+        },
+        {
+          "surface": "ちゃお",
+          "romaji": "chao"
+        },
+        {
+          "surface": "ー"
+        },
+        {
+          "surface": "っ",
+          "romaji": "xtu"
+        },
+        {
+          "surface": "!)"
+        }
+      ],
+      "romaji": "aamouiiyanechaonechaonechaoーxtu!)"
+    },
+    {
+      "text": "あぁカミサマお願い",
+      "segments": [
+        {
+          "surface": "あぁカミサマお"
+        },
+        {
+          "surface": "願",
+          "kana": "ねが"
+        },
+        {
+          "surface": "い"
+        }
+      ],
+      "index": 26,
+      "kana": "あぁカミサマおねがい",
+      "romaji_segments": [
+        {
+          "surface": "あぁ",
+          "romaji": "aa"
+        },
+        {
+          "surface": "カミサマ",
+          "romaji": "kamisama"
+        },
+        {
+          "surface": "お",
+          "romaji": "o"
+        },
+        {
+          "surface": "願",
+          "romaji": "nega"
+        },
+        {
+          "surface": "い",
+          "romaji": "i"
+        }
+      ],
+      "romaji": "aakamisamaonegai"
+    },
+    {
+      "text": "一度だけのMiracle Timeください!",
+      "segments": [
+        {
+          "surface": "一度",
+          "kana": "いちど"
+        },
+        {
+          "surface": "だけのMiracle Timeください!"
+        }
+      ],
+      "index": 27,
+      "kana": "いちどだけのMiracle Timeください!",
+      "romaji_segments": [
+        {
+          "surface": "一度",
+          "romaji": "ichido"
+        },
+        {
+          "surface": "だけの",
+          "romaji": "dakeno"
+        },
+        {
+          "surface": "Miracle Time"
+        },
+        {
+          "surface": "ください",
+          "romaji": "kudasai"
+        },
+        {
+          "surface": "!"
+        }
+      ],
+      "romaji": "ichidodakenoMiracle Timekudasai!"
+    },
+    {
+      "text": "もしすんなり話せればその後は…どうにかなるよね",
+      "segments": [
+        {
+          "surface": "もしすんなり"
+        },
+        {
+          "surface": "話",
+          "kana": "はな"
+        },
+        {
+          "surface": "せればその"
+        },
+        {
+          "surface": "後",
+          "kana": "あと"
+        },
+        {
+          "surface": "は…どうにかなるよね"
+        }
+      ],
+      "index": 28,
+      "kana": "もしすんなりはなせればそのあとは…どうにかなるよね",
+      "romaji_segments": [
+        {
+          "surface": "もしすんなり",
+          "romaji": "moshisunnari"
+        },
+        {
+          "surface": "話",
+          "romaji": "hana"
+        },
+        {
+          "surface": "せればその",
+          "romaji": "serebasono"
+        },
+        {
+          "surface": "後",
+          "romaji": "ato"
+        },
+        {
+          "surface": "は",
+          "romaji": "ha"
+        },
+        {
+          "surface": "…"
+        },
+        {
+          "surface": "どうにかなるよね",
+          "romaji": "dounikanaruyone"
+        }
+      ],
+      "romaji": "moshisunnarihanaserebasonoatoha…dounikanaruyone"
+    },
+    {
+      "text": "ふわふわ時間 ふわふわ時間 ふわふわ時間",
+      "segments": [
+        {
+          "surface": "ふわふわ"
+        },
+        {
+          "surface": "時間",
+          "kana": "タイム"
+        },
+        {
+          "surface": " ふわふわ"
+        },
+        {
+          "surface": "時間",
+          "kana": "タイム"
+        },
+        {
+          "surface": " ふわふわ"
+        },
+        {
+          "surface": "時間",
+          "kana": "タイム"
+        }
+      ],
+      "index": 29,
+      "kana": "ふわふわタイム ふわふわタイム ふわふわタイム",
+      "romaji_segments": [
+        {
+          "surface": "ふわふわ",
+          "romaji": "fuwafuwa"
+        },
+        {
+          "surface": "時間",
+          "romaji": "taimu"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "ふわふわ",
+          "romaji": "fuwafuwa"
+        },
+        {
+          "surface": "時間",
+          "romaji": "taimu"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "ふわふわ",
+          "romaji": "fuwafuwa"
+        },
+        {
+          "surface": "時間",
+          "romaji": "taimu"
+        }
+      ],
+      "romaji": "fuwafuwataimu fuwafuwataimu fuwafuwataimu"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "utaten-lyrics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UtaTen 歌词搜索与下载（本地服务 + 网页界面）",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "probe": "node scripts/probe.js",
+    "lyrics": "node scripts/utaten-lyrics.mjs",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "express": "^4.19.2",
+    "undici": "^8.12.4"
+  }
+}

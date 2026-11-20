@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UtaTen 歌词下载器</title>
+<meta name="description" content="搜索 UtaTen 歌词，查看假名注音，一键下载 TXT / JSON">
+<link rel="stylesheet" href="./styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>🎤</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar__inner">
+    <a class="brand" href="/">
+      <span class="brand__mark" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 18V5l10-2v13"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/>
+        </svg>
+      </span>
+      <span class="brand__text">
+        <strong>UtaTen 歌词</strong>
+        <small>搜索 · 注音 · 下载</small>
+      </span>
+    </a>
+
+    <form class="search" id="search-form" autocomplete="off">
+      <div class="search__field">
+        <svg class="search__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+          <circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/>
+        </svg>
+        <input id="q" name="q" type="search" placeholder="歌曲名、歌手名，或歌词片段…" spellcheck="false" autofocus>
+        <button type="submit" class="btn btn--primary" id="submit-btn">搜索</button>
+      </div>
+      <div class="search__seg" role="tablist" aria-label="搜索范围">
+        <button type="button" class="seg is-active" data-type="all" role="tab">综合</button>
+        <button type="button" class="seg" data-type="title" role="tab">曲名</button>
+        <button type="button" class="seg" data-type="artist" role="tab">歌手</button>
+        <button type="button" class="seg" data-type="body" role="tab">歌词</button>
+      </div>
+    </form>
+  </div>
+</header>
+
+<div class="app">
+  <aside class="panel panel--list" id="list-panel">
+    <div class="panel__head">
+      <h2>搜索结果</h2>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="list" id="results">
+      <div class="list__hint">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+          <path d="M4 6h16M4 12h11M4 18h7"/>
+        </svg>
+        <span>输入关键词开始搜索<br>结果会出现在这里</span>
+      </div>
+    </div>
+    <div class="list__more" id="more-wrap" hidden>
+      <button class="btn btn--ghost" id="more-btn">加载更多</button>
+    </div>
+  </aside>
+
+  <main class="panel panel--detail" id="detail">
+    <div class="empty" id="empty">
+      <div class="empty__art" aria-hidden="true">
+        <svg viewBox="0 0 120 120" fill="none">
+          <circle cx="60" cy="60" r="46" stroke="currentColor" stroke-width="1.2" stroke-dasharray="3 6" opacity=".45"/>
+          <path d="M48 76V38l30-6v34" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="42" cy="77" r="7" stroke="currentColor" stroke-width="2.2"/>
+          <circle cx="72" cy="69" r="7" stroke="currentColor" stroke-width="2.2"/>
+        </svg>
+      </div>
+      <h3>搜一首歌，把歌词带走</h3>
+      <p>支持按曲名、歌手、歌词片段搜索；也可以直接粘贴 <code>utaten.com/lyric/…</code> 链接。</p>
+      <div class="chips">
+        <button class="chip" data-q="米津玄師">米津玄師</button>
+        <button class="chip" data-q="夜に駆ける">夜に駆ける</button>
+        <button class="chip" data-q="YOASOBI">YOASOBI</button>
+        <button class="chip" data-q="Lemon">Lemon</button>
+      </div>
+    </div>
+
+    <article class="lyric" id="lyric" hidden>
+      <div class="lyric__head">
+        <h1 id="l-title"></h1>
+        <p class="lyric__sub" id="l-sub"></p>
+        <div class="lyric__meta">
+          <a class="artist" id="l-artist" target="_blank" rel="noopener"></a>
+          <span class="dot"></span>
+          <a class="source" id="l-source" target="_blank" rel="noopener">在 UtaTen 查看</a>
+        </div>
+        <dl class="facts" id="l-facts"></dl>
+      </div>
+
+      <div class="toolbar">
+        <label class="switch">
+          <input type="checkbox" id="ruby-toggle" checked>
+          <span class="switch__track"><span class="switch__thumb"></span></span>
+          <span>假名注音</span>
+        </label>
+        <div class="toolbar__actions">
+          <button class="btn btn--ghost" id="copy-btn">复制</button>
+          <button class="btn btn--ghost" data-dl="txt">下载 TXT</button>
+          <button class="btn btn--ghost" data-dl="furigana">下载 注音版</button>
+          <button class="btn btn--ghost" data-dl="json">JSON</button>
+        </div>
+      </div>
+
+      <div class="lyrics" id="lyrics"></div>
+
+      <p class="disclaimer">歌词版权归原作者及版权方所有，本工具仅用于个人学习与检索，请勿转载或用于商业用途。</p>
+    </article>
+
+    <div class="skeleton" id="skeleton" hidden>
+      <div class="sk sk--title"></div>
+      <div class="sk sk--meta"></div>
+      <div class="sk-lines">
+        <div class="sk"></div><div class="sk"></div><div class="sk sk--short"></div>
+        <div class="sk"></div><div class="sk sk--mid"></div><div class="sk"></div>
+        <div class="sk sk--short"></div><div class="sk"></div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script type="module" src="./app.js"></script>
+</body>
+</html>

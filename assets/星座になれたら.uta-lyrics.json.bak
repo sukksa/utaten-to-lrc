@@ -1,0 +1,2006 @@
+{
+  "format": "uta-annotated-lyrics",
+  "version": 1,
+  "source": "UtaTen",
+  "url": "https://utaten.com/lyric/ym23010406/",
+  "title": "星座になれたら",
+  "artist": "結束バンド",
+  "timed": false,
+  "lines": [
+    {
+      "text": "もうすぐ時計は6時",
+      "segments": [
+        {
+          "surface": "もうすぐ"
+        },
+        {
+          "surface": "時計",
+          "kana": "とけい"
+        },
+        {
+          "surface": "は6"
+        },
+        {
+          "surface": "時",
+          "kana": "じ"
+        }
+      ],
+      "index": 1,
+      "kana": "もうすぐとけいは6じ",
+      "romaji_segments": [
+        {
+          "surface": "もうすぐ",
+          "romaji": "mousugu"
+        },
+        {
+          "surface": "時計",
+          "romaji": "tokei"
+        },
+        {
+          "surface": "は",
+          "romaji": "ha"
+        },
+        {
+          "surface": "6"
+        },
+        {
+          "surface": "時",
+          "romaji": "ji"
+        }
+      ],
+      "romaji": "mousugutokeiha6ji"
+    },
+    {
+      "text": "もうそこに一番星",
+      "segments": [
+        {
+          "surface": "もうそこに"
+        },
+        {
+          "surface": "一番星",
+          "kana": "いちばんぼし"
+        }
+      ],
+      "index": 2,
+      "kana": "もうそこにいちばんぼし",
+      "romaji_segments": [
+        {
+          "surface": "もうそこに",
+          "romaji": "mousokoni"
+        },
+        {
+          "surface": "一番星",
+          "romaji": "ichibanboshi"
+        }
+      ],
+      "romaji": "mousokoniichibanboshi"
+    },
+    {
+      "text": "影を踏んで 夜に紛れたくなる帰り道",
+      "segments": [
+        {
+          "surface": "影",
+          "kana": "かげ"
+        },
+        {
+          "surface": "を"
+        },
+        {
+          "surface": "踏",
+          "kana": "ふ"
+        },
+        {
+          "surface": "んで "
+        },
+        {
+          "surface": "夜",
+          "kana": "よる"
+        },
+        {
+          "surface": "に"
+        },
+        {
+          "surface": "紛",
+          "kana": "まぎ"
+        },
+        {
+          "surface": "れたくなる"
+        },
+        {
+          "surface": "帰",
+          "kana": "かえ"
+        },
+        {
+          "surface": "り"
+        },
+        {
+          "surface": "道",
+          "kana": "みち"
+        }
+      ],
+      "index": 3,
+      "kana": "かげをふんで よるにまぎれたくなるかえりみち",
+      "romaji_segments": [
+        {
+          "surface": "影",
+          "romaji": "kage"
+        },
+        {
+          "surface": "を",
+          "romaji": "wo"
+        },
+        {
+          "surface": "踏",
+          "romaji": "fu"
+        },
+        {
+          "surface": "んで",
+          "romaji": "nde"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "夜",
+          "romaji": "yoru"
+        },
+        {
+          "surface": "に",
+          "romaji": "ni"
+        },
+        {
+          "surface": "紛",
+          "romaji": "magi"
+        },
+        {
+          "surface": "れたくなる",
+          "romaji": "retakunaru"
+        },
+        {
+          "surface": "帰",
+          "romaji": "kae"
+        },
+        {
+          "surface": "り",
+          "romaji": "ri"
+        },
+        {
+          "surface": "道",
+          "romaji": "michi"
+        }
+      ],
+      "romaji": "kagewofunde yorunimagiretakunarukaerimichi"
+    },
+    {
+      "text": "どんなに探してみても",
+      "segments": [
+        {
+          "surface": "どんなに"
+        },
+        {
+          "surface": "探",
+          "kana": "さが"
+        },
+        {
+          "surface": "してみても"
+        }
+      ],
+      "index": 4,
+      "kana": "どんなにさがしてみても",
+      "romaji_segments": [
+        {
+          "surface": "どんなに",
+          "romaji": "donnani"
+        },
+        {
+          "surface": "探",
+          "romaji": "saga"
+        },
+        {
+          "surface": "してみても",
+          "romaji": "shitemitemo"
+        }
+      ],
+      "romaji": "donnanisagashitemitemo"
+    },
+    {
+      "text": "一つしかない星",
+      "segments": [
+        {
+          "surface": "一",
+          "kana": "ひと"
+        },
+        {
+          "surface": "つしかない"
+        },
+        {
+          "surface": "星",
+          "kana": "ほし"
+        }
+      ],
+      "index": 5,
+      "kana": "ひとつしかないほし",
+      "romaji_segments": [
+        {
+          "surface": "一",
+          "romaji": "hito"
+        },
+        {
+          "surface": "つしかない",
+          "romaji": "tsushikanai"
+        },
+        {
+          "surface": "星",
+          "romaji": "hoshi"
+        }
+      ],
+      "romaji": "hitotsushikanaihoshi"
+    },
+    {
+      "text": "何億光年 離れたところからあんなに輝く",
+      "segments": [
+        {
+          "surface": "何",
+          "kana": "なん"
+        },
+        {
+          "surface": "億",
+          "kana": "おく"
+        },
+        {
+          "surface": "光年",
+          "kana": "こうねん"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "離",
+          "kana": "はな"
+        },
+        {
+          "surface": "れたところからあんなに"
+        },
+        {
+          "surface": "輝",
+          "kana": "かがや"
+        },
+        {
+          "surface": "く"
+        }
+      ],
+      "index": 6,
+      "kana": "なんおくこうねん はなれたところからあんなにかがやく",
+      "romaji_segments": [
+        {
+          "surface": "何",
+          "romaji": "nan"
+        },
+        {
+          "surface": "億",
+          "romaji": "oku"
+        },
+        {
+          "surface": "光年",
+          "romaji": "kounen"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "離",
+          "romaji": "hana"
+        },
+        {
+          "surface": "れたところからあんなに",
+          "romaji": "retatokorokaraannani"
+        },
+        {
+          "surface": "輝",
+          "romaji": "kagaya"
+        },
+        {
+          "surface": "く",
+          "romaji": "ku"
+        }
+      ],
+      "romaji": "nanokukounen hanaretatokorokaraannanikagayaku"
+    },
+    {
+      "text": "いいな 君は みんなから愛されて",
+      "segments": [
+        {
+          "surface": "いいな "
+        },
+        {
+          "surface": "君",
+          "kana": "きみ"
+        },
+        {
+          "surface": "は みんなから"
+        },
+        {
+          "surface": "愛",
+          "kana": "あい"
+        },
+        {
+          "surface": "されて"
+        }
+      ],
+      "index": 7,
+      "kana": "いいな きみは みんなからあいされて",
+      "romaji_segments": [
+        {
+          "surface": "いいな",
+          "romaji": "iina"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "君",
+          "romaji": "kimi"
+        },
+        {
+          "surface": "は",
+          "romaji": "ha"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "みんなから",
+          "romaji": "minnakara"
+        },
+        {
+          "surface": "愛",
+          "romaji": "ai"
+        },
+        {
+          "surface": "されて",
+          "romaji": "sarete"
+        }
+      ],
+      "romaji": "iina kimiha minnakaraaisarete"
+    },
+    {
+      "text": "「いいや 僕は ずっと一人きりさ」",
+      "segments": [
+        {
+          "surface": "「いいや "
+        },
+        {
+          "surface": "僕",
+          "kana": "ぼく"
+        },
+        {
+          "surface": "は ずっと"
+        },
+        {
+          "surface": "一人",
+          "kana": "ひとり"
+        },
+        {
+          "surface": "きりさ」"
+        }
+      ],
+      "index": 8,
+      "kana": "「いいや ぼくは ずっとひとりきりさ」",
+      "romaji_segments": [
+        {
+          "surface": "「"
+        },
+        {
+          "surface": "いいや",
+          "romaji": "iiya"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "僕",
+          "romaji": "boku"
+        },
+        {
+          "surface": "は",
+          "romaji": "ha"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "ずっと",
+          "romaji": "zutto"
+        },
+        {
+          "surface": "一人",
+          "romaji": "hitori"
+        },
+        {
+          "surface": "きりさ",
+          "romaji": "kirisa"
+        },
+        {
+          "surface": "」"
+        }
+      ],
+      "romaji": "「iiya bokuha zuttohitorikirisa」"
+    },
+    {
+      "text": "君と集まって星座になれたら",
+      "segments": [
+        {
+          "surface": "君",
+          "kana": "きみ"
+        },
+        {
+          "surface": "と"
+        },
+        {
+          "surface": "集",
+          "kana": "あつ"
+        },
+        {
+          "surface": "まって"
+        },
+        {
+          "surface": "星座",
+          "kana": "せいざ"
+        },
+        {
+          "surface": "になれたら"
+        }
+      ],
+      "index": 9,
+      "kana": "きみとあつまってせいざになれたら",
+      "romaji_segments": [
+        {
+          "surface": "君",
+          "romaji": "kimi"
+        },
+        {
+          "surface": "と",
+          "romaji": "to"
+        },
+        {
+          "surface": "集",
+          "romaji": "atsu"
+        },
+        {
+          "surface": "まって",
+          "romaji": "matte"
+        },
+        {
+          "surface": "星座",
+          "romaji": "seiza"
+        },
+        {
+          "surface": "になれたら",
+          "romaji": "ninaretara"
+        }
+      ],
+      "romaji": "kimitoatsumatteseizaninaretara"
+    },
+    {
+      "text": "星降る夜 一瞬の願い事",
+      "segments": [
+        {
+          "surface": "星",
+          "kana": "ほし"
+        },
+        {
+          "surface": "降",
+          "kana": "ふ"
+        },
+        {
+          "surface": "る"
+        },
+        {
+          "surface": "夜",
+          "kana": "よる"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "一瞬",
+          "kana": "いっしゅん"
+        },
+        {
+          "surface": "の"
+        },
+        {
+          "surface": "願",
+          "kana": "ねが"
+        },
+        {
+          "surface": "い"
+        },
+        {
+          "surface": "事",
+          "kana": "ごと"
+        }
+      ],
+      "index": 10,
+      "kana": "ほしふるよる いっしゅんのねがいごと",
+      "romaji_segments": [
+        {
+          "surface": "星",
+          "romaji": "hoshi"
+        },
+        {
+          "surface": "降",
+          "romaji": "fu"
+        },
+        {
+          "surface": "る",
+          "romaji": "ru"
+        },
+        {
+          "surface": "夜",
+          "romaji": "yoru"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "一瞬",
+          "romaji": "issyun"
+        },
+        {
+          "surface": "の",
+          "romaji": "no"
+        },
+        {
+          "surface": "願",
+          "romaji": "nega"
+        },
+        {
+          "surface": "い",
+          "romaji": "i"
+        },
+        {
+          "surface": "事",
+          "romaji": "goto"
+        }
+      ],
+      "romaji": "hoshifuruyoru issyunnonegaigoto"
+    },
+    {
+      "text": "きらめいて ゆらめいて 震えてるシグナル",
+      "segments": [
+        {
+          "surface": "きらめいて ゆらめいて "
+        },
+        {
+          "surface": "震",
+          "kana": "ふる"
+        },
+        {
+          "surface": "えてるシグナル"
+        }
+      ],
+      "index": 11,
+      "kana": "きらめいて ゆらめいて ふるえてるシグナル",
+      "romaji_segments": [
+        {
+          "surface": "きらめいて",
+          "romaji": "kirameite"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "ゆらめいて",
+          "romaji": "yurameite"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "震",
+          "romaji": "furu"
+        },
+        {
+          "surface": "えてる",
+          "romaji": "eteru"
+        },
+        {
+          "surface": "シグナル",
+          "romaji": "shigunaru"
+        }
+      ],
+      "romaji": "kirameite yurameite furueterushigunaru"
+    },
+    {
+      "text": "君と集まって星座になれたら",
+      "segments": [
+        {
+          "surface": "君",
+          "kana": "きみ"
+        },
+        {
+          "surface": "と"
+        },
+        {
+          "surface": "集",
+          "kana": "あつ"
+        },
+        {
+          "surface": "まって"
+        },
+        {
+          "surface": "星座",
+          "kana": "せいざ"
+        },
+        {
+          "surface": "になれたら"
+        }
+      ],
+      "index": 12,
+      "kana": "きみとあつまってせいざになれたら",
+      "romaji_segments": [
+        {
+          "surface": "君",
+          "romaji": "kimi"
+        },
+        {
+          "surface": "と",
+          "romaji": "to"
+        },
+        {
+          "surface": "集",
+          "romaji": "atsu"
+        },
+        {
+          "surface": "まって",
+          "romaji": "matte"
+        },
+        {
+          "surface": "星座",
+          "romaji": "seiza"
+        },
+        {
+          "surface": "になれたら",
+          "romaji": "ninaretara"
+        }
+      ],
+      "romaji": "kimitoatsumatteseizaninaretara"
+    },
+    {
+      "text": "空見上げて 指を差されるような",
+      "segments": [
+        {
+          "surface": "空",
+          "kana": "そら"
+        },
+        {
+          "surface": "見上",
+          "kana": "みあ"
+        },
+        {
+          "surface": "げて "
+        },
+        {
+          "surface": "指",
+          "kana": "ゆび"
+        },
+        {
+          "surface": "を"
+        },
+        {
+          "surface": "差",
+          "kana": "さ"
+        },
+        {
+          "surface": "されるような"
+        }
+      ],
+      "index": 13,
+      "kana": "そらみあげて ゆびをさされるような",
+      "romaji_segments": [
+        {
+          "surface": "空",
+          "romaji": "sora"
+        },
+        {
+          "surface": "見上",
+          "romaji": "mia"
+        },
+        {
+          "surface": "げて",
+          "romaji": "gete"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "指",
+          "romaji": "yubi"
+        },
+        {
+          "surface": "を",
+          "romaji": "wo"
+        },
+        {
+          "surface": "差",
+          "romaji": "sa"
+        },
+        {
+          "surface": "されるような",
+          "romaji": "sareruyouna"
+        }
+      ],
+      "romaji": "soramiagete yubiwosasareruyouna"
+    },
+    {
+      "text": "つないだ線 解かないで",
+      "segments": [
+        {
+          "surface": "つないだ"
+        },
+        {
+          "surface": "線",
+          "kana": "せん"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "解",
+          "kana": "ほど"
+        },
+        {
+          "surface": "かないで"
+        }
+      ],
+      "index": 14,
+      "kana": "つないだせん ほどかないで",
+      "romaji_segments": [
+        {
+          "surface": "つないだ",
+          "romaji": "tsunaida"
+        },
+        {
+          "surface": "線",
+          "romaji": "sen"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "解",
+          "romaji": "hodo"
+        },
+        {
+          "surface": "かないで",
+          "romaji": "kanaide"
+        }
+      ],
+      "romaji": "tsunaidasen hodokanaide"
+    },
+    {
+      "text": "僕がどんなに眩しくても",
+      "segments": [
+        {
+          "surface": "僕",
+          "kana": "ぼく"
+        },
+        {
+          "surface": "がどんなに"
+        },
+        {
+          "surface": "眩",
+          "kana": "まぶ"
+        },
+        {
+          "surface": "しくても"
+        }
+      ],
+      "index": 15,
+      "kana": "ぼくがどんなにまぶしくても",
+      "romaji_segments": [
+        {
+          "surface": "僕",
+          "romaji": "boku"
+        },
+        {
+          "surface": "がどんなに",
+          "romaji": "gadonnani"
+        },
+        {
+          "surface": "眩",
+          "romaji": "mabu"
+        },
+        {
+          "surface": "しくても",
+          "romaji": "shikutemo"
+        }
+      ],
+      "romaji": "bokugadonnanimabushikutemo"
+    },
+    {
+      "text": "もうすぐ時計は8時",
+      "segments": [
+        {
+          "surface": "もうすぐ"
+        },
+        {
+          "surface": "時計",
+          "kana": "とけい"
+        },
+        {
+          "surface": "は8"
+        },
+        {
+          "surface": "時",
+          "kana": "じ"
+        }
+      ],
+      "index": 16,
+      "kana": "もうすぐとけいは8じ",
+      "romaji_segments": [
+        {
+          "surface": "もうすぐ",
+          "romaji": "mousugu"
+        },
+        {
+          "surface": "時計",
+          "romaji": "tokei"
+        },
+        {
+          "surface": "は",
+          "romaji": "ha"
+        },
+        {
+          "surface": "8"
+        },
+        {
+          "surface": "時",
+          "romaji": "ji"
+        }
+      ],
+      "romaji": "mousugutokeiha8ji"
+    },
+    {
+      "text": "夜空に満天の星",
+      "segments": [
+        {
+          "surface": "夜空",
+          "kana": "よぞら"
+        },
+        {
+          "surface": "に"
+        },
+        {
+          "surface": "満天",
+          "kana": "まんてん"
+        },
+        {
+          "surface": "の"
+        },
+        {
+          "surface": "星",
+          "kana": "ほし"
+        }
+      ],
+      "index": 17,
+      "kana": "よぞらにまんてんのほし",
+      "romaji_segments": [
+        {
+          "surface": "夜空",
+          "romaji": "yozora"
+        },
+        {
+          "surface": "に",
+          "romaji": "ni"
+        },
+        {
+          "surface": "満天",
+          "romaji": "manten"
+        },
+        {
+          "surface": "の",
+          "romaji": "no"
+        },
+        {
+          "surface": "星",
+          "romaji": "hoshi"
+        }
+      ],
+      "romaji": "yozoranimantennohoshi"
+    },
+    {
+      "text": "何億光年 離れたところにはもうないかもしれない",
+      "segments": [
+        {
+          "surface": "何",
+          "kana": "なん"
+        },
+        {
+          "surface": "億",
+          "kana": "おく"
+        },
+        {
+          "surface": "光年",
+          "kana": "こうねん"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "離",
+          "kana": "はな"
+        },
+        {
+          "surface": "れたところにはもうないかもしれない"
+        }
+      ],
+      "index": 18,
+      "kana": "なんおくこうねん はなれたところにはもうないかもしれない",
+      "romaji_segments": [
+        {
+          "surface": "何",
+          "romaji": "nan"
+        },
+        {
+          "surface": "億",
+          "romaji": "oku"
+        },
+        {
+          "surface": "光年",
+          "romaji": "kounen"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "離",
+          "romaji": "hana"
+        },
+        {
+          "surface": "れたところにはもうないかもしれない",
+          "romaji": "retatokoronihamounaikamoshirenai"
+        }
+      ],
+      "romaji": "nanokukounen hanaretatokoronihamounaikamoshirenai"
+    },
+    {
+      "text": "月が綺麗で 泣きそうになるのは",
+      "segments": [
+        {
+          "surface": "月",
+          "kana": "つき"
+        },
+        {
+          "surface": "が"
+        },
+        {
+          "surface": "綺麗",
+          "kana": "きれい"
+        },
+        {
+          "surface": "で "
+        },
+        {
+          "surface": "泣",
+          "kana": "な"
+        },
+        {
+          "surface": "きそうになるのは"
+        }
+      ],
+      "index": 19,
+      "kana": "つきがきれいで なきそうになるのは",
+      "romaji_segments": [
+        {
+          "surface": "月",
+          "romaji": "tsuki"
+        },
+        {
+          "surface": "が",
+          "romaji": "ga"
+        },
+        {
+          "surface": "綺麗",
+          "romaji": "kirei"
+        },
+        {
+          "surface": "で",
+          "romaji": "de"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "泣",
+          "romaji": "na"
+        },
+        {
+          "surface": "きそうになるのは",
+          "romaji": "kisouninarunoha"
+        }
+      ],
+      "romaji": "tsukigakireide nakisouninarunoha"
+    },
+    {
+      "text": "いつの日にか 別れが来るから",
+      "segments": [
+        {
+          "surface": "いつの"
+        },
+        {
+          "surface": "日",
+          "kana": "ひ"
+        },
+        {
+          "surface": "にか "
+        },
+        {
+          "surface": "別",
+          "kana": "わか"
+        },
+        {
+          "surface": "れが"
+        },
+        {
+          "surface": "来",
+          "kana": "く"
+        },
+        {
+          "surface": "るから"
+        }
+      ],
+      "index": 20,
+      "kana": "いつのひにか わかれがくるから",
+      "romaji_segments": [
+        {
+          "surface": "いつの",
+          "romaji": "itsuno"
+        },
+        {
+          "surface": "日",
+          "romaji": "hi"
+        },
+        {
+          "surface": "にか",
+          "romaji": "nika"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "別",
+          "romaji": "waka"
+        },
+        {
+          "surface": "れが",
+          "romaji": "rega"
+        },
+        {
+          "surface": "来",
+          "romaji": "ku"
+        },
+        {
+          "surface": "るから",
+          "romaji": "rukara"
+        }
+      ],
+      "romaji": "itsunohinika wakaregakurukara"
+    },
+    {
+      "text": "君と集まって星座になれたら",
+      "segments": [
+        {
+          "surface": "君",
+          "kana": "きみ"
+        },
+        {
+          "surface": "と"
+        },
+        {
+          "surface": "集",
+          "kana": "あつ"
+        },
+        {
+          "surface": "まって"
+        },
+        {
+          "surface": "星座",
+          "kana": "せいざ"
+        },
+        {
+          "surface": "になれたら"
+        }
+      ],
+      "index": 21,
+      "kana": "きみとあつまってせいざになれたら",
+      "romaji_segments": [
+        {
+          "surface": "君",
+          "romaji": "kimi"
+        },
+        {
+          "surface": "と",
+          "romaji": "to"
+        },
+        {
+          "surface": "集",
+          "romaji": "atsu"
+        },
+        {
+          "surface": "まって",
+          "romaji": "matte"
+        },
+        {
+          "surface": "星座",
+          "romaji": "seiza"
+        },
+        {
+          "surface": "になれたら",
+          "romaji": "ninaretara"
+        }
+      ],
+      "romaji": "kimitoatsumatteseizaninaretara"
+    },
+    {
+      "text": "彗星みたい 流れるひとりごと",
+      "segments": [
+        {
+          "surface": "彗星",
+          "kana": "すいせい"
+        },
+        {
+          "surface": "みたい "
+        },
+        {
+          "surface": "流",
+          "kana": "なが"
+        },
+        {
+          "surface": "れるひとりごと"
+        }
+      ],
+      "index": 22,
+      "kana": "すいせいみたい ながれるひとりごと",
+      "romaji_segments": [
+        {
+          "surface": "彗星",
+          "romaji": "suisei"
+        },
+        {
+          "surface": "みたい",
+          "romaji": "mitai"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "流",
+          "romaji": "naga"
+        },
+        {
+          "surface": "れるひとりごと",
+          "romaji": "reruhitorigoto"
+        }
+      ],
+      "romaji": "suiseimitai nagareruhitorigoto"
+    },
+    {
+      "text": "消えていく 残像は 真夜中のプリズム",
+      "segments": [
+        {
+          "surface": "消",
+          "kana": "き"
+        },
+        {
+          "surface": "えていく "
+        },
+        {
+          "surface": "残像",
+          "kana": "ざんぞう"
+        },
+        {
+          "surface": "は "
+        },
+        {
+          "surface": "真夜中",
+          "kana": "まよなか"
+        },
+        {
+          "surface": "のプリズム"
+        }
+      ],
+      "index": 23,
+      "kana": "きえていく ざんぞうは まよなかのプリズム",
+      "romaji_segments": [
+        {
+          "surface": "消",
+          "romaji": "ki"
+        },
+        {
+          "surface": "えていく",
+          "romaji": "eteiku"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "残像",
+          "romaji": "zanzou"
+        },
+        {
+          "surface": "は",
+          "romaji": "ha"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "真夜中",
+          "romaji": "mayonaka"
+        },
+        {
+          "surface": "の",
+          "romaji": "no"
+        },
+        {
+          "surface": "プリズム",
+          "romaji": "purizumu"
+        }
+      ],
+      "romaji": "kieteiku zanzouha mayonakanopurizumu"
+    },
+    {
+      "text": "君と集まって星座になれたら",
+      "segments": [
+        {
+          "surface": "君",
+          "kana": "きみ"
+        },
+        {
+          "surface": "と"
+        },
+        {
+          "surface": "集",
+          "kana": "あつ"
+        },
+        {
+          "surface": "まって"
+        },
+        {
+          "surface": "星座",
+          "kana": "せいざ"
+        },
+        {
+          "surface": "になれたら"
+        }
+      ],
+      "index": 24,
+      "kana": "きみとあつまってせいざになれたら",
+      "romaji_segments": [
+        {
+          "surface": "君",
+          "romaji": "kimi"
+        },
+        {
+          "surface": "と",
+          "romaji": "to"
+        },
+        {
+          "surface": "集",
+          "romaji": "atsu"
+        },
+        {
+          "surface": "まって",
+          "romaji": "matte"
+        },
+        {
+          "surface": "星座",
+          "romaji": "seiza"
+        },
+        {
+          "surface": "になれたら",
+          "romaji": "ninaretara"
+        }
+      ],
+      "romaji": "kimitoatsumatteseizaninaretara"
+    },
+    {
+      "text": "切なる願い 誰かに届いたら",
+      "segments": [
+        {
+          "surface": "切",
+          "kana": "せつ"
+        },
+        {
+          "surface": "なる"
+        },
+        {
+          "surface": "願",
+          "kana": "ねが"
+        },
+        {
+          "surface": "い "
+        },
+        {
+          "surface": "誰",
+          "kana": "だれ"
+        },
+        {
+          "surface": "かに"
+        },
+        {
+          "surface": "届",
+          "kana": "とど"
+        },
+        {
+          "surface": "いたら"
+        }
+      ],
+      "index": 25,
+      "kana": "せつなるねがい だれかにとどいたら",
+      "romaji_segments": [
+        {
+          "surface": "切",
+          "romaji": "setsu"
+        },
+        {
+          "surface": "なる",
+          "romaji": "naru"
+        },
+        {
+          "surface": "願",
+          "romaji": "nega"
+        },
+        {
+          "surface": "い",
+          "romaji": "i"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "誰",
+          "romaji": "dare"
+        },
+        {
+          "surface": "かに",
+          "romaji": "kani"
+        },
+        {
+          "surface": "届",
+          "romaji": "todo"
+        },
+        {
+          "surface": "いたら",
+          "romaji": "itara"
+        }
+      ],
+      "romaji": "setsunarunegai darekanitodoitara"
+    },
+    {
+      "text": "変われるかな 夜の淵を",
+      "segments": [
+        {
+          "surface": "変",
+          "kana": "か"
+        },
+        {
+          "surface": "われるかな "
+        },
+        {
+          "surface": "夜",
+          "kana": "よる"
+        },
+        {
+          "surface": "の"
+        },
+        {
+          "surface": "淵",
+          "kana": "ふち"
+        },
+        {
+          "surface": "を"
+        }
+      ],
+      "index": 26,
+      "kana": "かわれるかな よるのふちを",
+      "romaji_segments": [
+        {
+          "surface": "変",
+          "romaji": "ka"
+        },
+        {
+          "surface": "われるかな",
+          "romaji": "warerukana"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "夜",
+          "romaji": "yoru"
+        },
+        {
+          "surface": "の",
+          "romaji": "no"
+        },
+        {
+          "surface": "淵",
+          "romaji": "fuchi"
+        },
+        {
+          "surface": "を",
+          "romaji": "wo"
+        }
+      ],
+      "romaji": "kawarerukana yorunofuchiwo"
+    },
+    {
+      "text": "なぞるような こんな僕でも",
+      "segments": [
+        {
+          "surface": "なぞるような こんな"
+        },
+        {
+          "surface": "僕",
+          "kana": "ぼく"
+        },
+        {
+          "surface": "でも"
+        }
+      ],
+      "index": 27,
+      "kana": "なぞるような こんなぼくでも",
+      "romaji_segments": [
+        {
+          "surface": "なぞるような",
+          "romaji": "nazoruyouna"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "こんな",
+          "romaji": "konna"
+        },
+        {
+          "surface": "僕",
+          "romaji": "boku"
+        },
+        {
+          "surface": "でも",
+          "romaji": "demo"
+        }
+      ],
+      "romaji": "nazoruyouna konnabokudemo"
+    },
+    {
+      "text": "遥か彼方 僕らは出会ってしまった",
+      "segments": [
+        {
+          "surface": "遥",
+          "kana": "はる"
+        },
+        {
+          "surface": "か"
+        },
+        {
+          "surface": "彼方",
+          "kana": "かなた"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "僕",
+          "kana": "ぼく"
+        },
+        {
+          "surface": "らは"
+        },
+        {
+          "surface": "出会",
+          "kana": "であ"
+        },
+        {
+          "surface": "ってしまった"
+        }
+      ],
+      "index": 28,
+      "kana": "はるかかなた ぼくらはであってしまった",
+      "romaji_segments": [
+        {
+          "surface": "遥",
+          "romaji": "haru"
+        },
+        {
+          "surface": "か",
+          "romaji": "ka"
+        },
+        {
+          "surface": "彼方",
+          "romaji": "kanata"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "僕",
+          "romaji": "boku"
+        },
+        {
+          "surface": "らは",
+          "romaji": "raha"
+        },
+        {
+          "surface": "出会",
+          "romaji": "dea"
+        },
+        {
+          "surface": "ってしまった",
+          "romaji": "tteshimatta"
+        }
+      ],
+      "romaji": "harukakanata bokurahadeatteshimatta"
+    },
+    {
+      "text": "カルマだから 何度も出会ってしまうよ",
+      "segments": [
+        {
+          "surface": "カルマだから "
+        },
+        {
+          "surface": "何度",
+          "kana": "なんど"
+        },
+        {
+          "surface": "も"
+        },
+        {
+          "surface": "出会",
+          "kana": "であ"
+        },
+        {
+          "surface": "ってしまうよ"
+        }
+      ],
+      "index": 29,
+      "kana": "カルマだから なんどもであってしまうよ",
+      "romaji_segments": [
+        {
+          "surface": "カルマ",
+          "romaji": "karuma"
+        },
+        {
+          "surface": "だから",
+          "romaji": "dakara"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "何度",
+          "romaji": "nando"
+        },
+        {
+          "surface": "も",
+          "romaji": "mo"
+        },
+        {
+          "surface": "出会",
+          "romaji": "dea"
+        },
+        {
+          "surface": "ってしまうよ",
+          "romaji": "tteshimauyo"
+        }
+      ],
+      "romaji": "karumadakara nandomodeatteshimauyo"
+    },
+    {
+      "text": "雲の隙間で",
+      "segments": [
+        {
+          "surface": "雲",
+          "kana": "くも"
+        },
+        {
+          "surface": "の"
+        },
+        {
+          "surface": "隙間",
+          "kana": "すきま"
+        },
+        {
+          "surface": "で"
+        }
+      ],
+      "index": 30,
+      "kana": "くものすきまで",
+      "romaji_segments": [
+        {
+          "surface": "雲",
+          "romaji": "kumo"
+        },
+        {
+          "surface": "の",
+          "romaji": "no"
+        },
+        {
+          "surface": "隙間",
+          "romaji": "sukima"
+        },
+        {
+          "surface": "で",
+          "romaji": "de"
+        }
+      ],
+      "romaji": "kumonosukimade"
+    },
+    {
+      "text": "君と集まって星座になれたら",
+      "segments": [
+        {
+          "surface": "君",
+          "kana": "きみ"
+        },
+        {
+          "surface": "と"
+        },
+        {
+          "surface": "集",
+          "kana": "あつ"
+        },
+        {
+          "surface": "まって"
+        },
+        {
+          "surface": "星座",
+          "kana": "せいざ"
+        },
+        {
+          "surface": "になれたら"
+        }
+      ],
+      "index": 31,
+      "kana": "きみとあつまってせいざになれたら",
+      "romaji_segments": [
+        {
+          "surface": "君",
+          "romaji": "kimi"
+        },
+        {
+          "surface": "と",
+          "romaji": "to"
+        },
+        {
+          "surface": "集",
+          "romaji": "atsu"
+        },
+        {
+          "surface": "まって",
+          "romaji": "matte"
+        },
+        {
+          "surface": "星座",
+          "romaji": "seiza"
+        },
+        {
+          "surface": "になれたら",
+          "romaji": "ninaretara"
+        }
+      ],
+      "romaji": "kimitoatsumatteseizaninaretara"
+    },
+    {
+      "text": "夜広げて 描こう絵空事",
+      "segments": [
+        {
+          "surface": "夜",
+          "kana": "よる"
+        },
+        {
+          "surface": "広",
+          "kana": "ひろ"
+        },
+        {
+          "surface": "げて "
+        },
+        {
+          "surface": "描",
+          "kana": "えが"
+        },
+        {
+          "surface": "こう"
+        },
+        {
+          "surface": "絵空事",
+          "kana": "えそらごと"
+        }
+      ],
+      "index": 32,
+      "kana": "よるひろげて えがこうえそらごと",
+      "romaji_segments": [
+        {
+          "surface": "夜",
+          "romaji": "yoru"
+        },
+        {
+          "surface": "広",
+          "romaji": "hiro"
+        },
+        {
+          "surface": "げて",
+          "romaji": "gete"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "描",
+          "romaji": "ega"
+        },
+        {
+          "surface": "こう",
+          "romaji": "kou"
+        },
+        {
+          "surface": "絵空事",
+          "romaji": "esoragoto"
+        }
+      ],
+      "romaji": "yoruhirogete egakouesoragoto"
+    },
+    {
+      "text": "暗闇を 照らすような 満月じゃなくても",
+      "segments": [
+        {
+          "surface": "暗闇",
+          "kana": "くらやみ"
+        },
+        {
+          "surface": "を "
+        },
+        {
+          "surface": "照",
+          "kana": "て"
+        },
+        {
+          "surface": "らすような "
+        },
+        {
+          "surface": "満月",
+          "kana": "まんげつ"
+        },
+        {
+          "surface": "じゃなくても"
+        }
+      ],
+      "index": 33,
+      "kana": "くらやみを てらすような まんげつじゃなくても",
+      "romaji_segments": [
+        {
+          "surface": "暗闇",
+          "romaji": "kurayami"
+        },
+        {
+          "surface": "を",
+          "romaji": "wo"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "照",
+          "romaji": "te"
+        },
+        {
+          "surface": "らすような",
+          "romaji": "rasuyouna"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "満月",
+          "romaji": "mangetsu"
+        },
+        {
+          "surface": "じゃなくても",
+          "romaji": "janakutemo"
+        }
+      ],
+      "romaji": "kurayamiwo terasuyouna mangetsujanakutemo"
+    },
+    {
+      "text": "だから集まって星座になりたい",
+      "segments": [
+        {
+          "surface": "だから"
+        },
+        {
+          "surface": "集",
+          "kana": "あつ"
+        },
+        {
+          "surface": "まって"
+        },
+        {
+          "surface": "星座",
+          "kana": "せいざ"
+        },
+        {
+          "surface": "になりたい"
+        }
+      ],
+      "index": 34,
+      "kana": "だからあつまってせいざになりたい",
+      "romaji_segments": [
+        {
+          "surface": "だから",
+          "romaji": "dakara"
+        },
+        {
+          "surface": "集",
+          "romaji": "atsu"
+        },
+        {
+          "surface": "まって",
+          "romaji": "matte"
+        },
+        {
+          "surface": "星座",
+          "romaji": "seiza"
+        },
+        {
+          "surface": "になりたい",
+          "romaji": "ninaritai"
+        }
+      ],
+      "romaji": "dakaraatsumatteseizaninaritai"
+    },
+    {
+      "text": "色とりどりの光 放つような",
+      "segments": [
+        {
+          "surface": "色",
+          "kana": "いろ"
+        },
+        {
+          "surface": "とりどりの"
+        },
+        {
+          "surface": "光",
+          "kana": "ひかり"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "放",
+          "kana": "はな"
+        },
+        {
+          "surface": "つような"
+        }
+      ],
+      "index": 35,
+      "kana": "いろとりどりのひかり はなつような",
+      "romaji_segments": [
+        {
+          "surface": "色",
+          "romaji": "iro"
+        },
+        {
+          "surface": "とりどりの",
+          "romaji": "toridorino"
+        },
+        {
+          "surface": "光",
+          "romaji": "hikari"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "放",
+          "romaji": "hana"
+        },
+        {
+          "surface": "つような",
+          "romaji": "tsuyouna"
+        }
+      ],
+      "romaji": "irotoridorinohikari hanatsuyouna"
+    },
+    {
+      "text": "つないだ線 解かないよ",
+      "segments": [
+        {
+          "surface": "つないだ"
+        },
+        {
+          "surface": "線",
+          "kana": "せん"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "解",
+          "kana": "ほど"
+        },
+        {
+          "surface": "かないよ"
+        }
+      ],
+      "index": 36,
+      "kana": "つないだせん ほどかないよ",
+      "romaji_segments": [
+        {
+          "surface": "つないだ",
+          "romaji": "tsunaida"
+        },
+        {
+          "surface": "線",
+          "romaji": "sen"
+        },
+        {
+          "surface": " "
+        },
+        {
+          "surface": "解",
+          "romaji": "hodo"
+        },
+        {
+          "surface": "かないよ",
+          "romaji": "kanaiyo"
+        }
+      ],
+      "romaji": "tsunaidasen hodokanaiyo"
+    },
+    {
+      "text": "君がどんなに眩しくても",
+      "segments": [
+        {
+          "surface": "君",
+          "kana": "きみ"
+        },
+        {
+          "surface": "がどんなに"
+        },
+        {
+          "surface": "眩",
+          "kana": "まぶ"
+        },
+        {
+          "surface": "しくても"
+        }
+      ],
+      "index": 37,
+      "kana": "きみがどんなにまぶしくても",
+      "romaji_segments": [
+        {
+          "surface": "君",
+          "romaji": "kimi"
+        },
+        {
+          "surface": "がどんなに",
+          "romaji": "gadonnani"
+        },
+        {
+          "surface": "眩",
+          "romaji": "mabu"
+        },
+        {
+          "surface": "しくても",
+          "romaji": "shikutemo"
+        }
+      ],
+      "romaji": "kimigadonnanimabushikutemo"
+    }
+  ],
+  "warnings": []
+}
